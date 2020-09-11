@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+ <category>
+    <pattern>*</pattern>
+    <template>
+      <random>
+        <li>Disculpa pero no comprendo tu pregunta pero Puedo hablarte de los servicios que ofrecemos?. Escriba Servicios Por Favor.</li>
+      </random>
+    </template>
+  </category>
+  
+  <category>
+       <pattern>como te llamas</pattern>
+        <template>
+			<random>
+				<li>me llamo ALEJANDRO</li>
+				<li>ALEJANDRO</li>
+			</random>
+        </template>
+  </category>
+  
+    <category>
+       <pattern>_ como te llamas</pattern>
+        <template>
+			<random>
+				<li>me llamo ALEJANDRO</li>
+				<li>ALEJANDRO</li>
+			</random>
+        </template>
+  </category>
+  
+    <category>
+       <pattern>como te llamas *</pattern>
+        <template>
+			<random>
+				<li>me llamo ALEJANDRO</li>
+				<li>ALEJANDRO</li>
+			</random>
+        </template>
+  </category>
+  
+    <category>
+       <pattern>_ como te llamas *</pattern>
+        <template>
+			<random>
+				<li>me llamo ALEJANDRO</li>
+				<li>ALEJANDRO</li>
+			</random>
+        </template>
+  </category>
+  
+  
+      
+	<category>
+        <pattern>Servicios</pattern>
+        <template>Ofrecemos los siguientes servicios: <br/><br/>
+		-Escuela naval de Guatemala.<br/> 
+		-Servicio militar obligatorio?<br/>
+		Por favor escriba algunos de ellos.
+        </template>
+    </category>
+	
+	 <category>
+        <pattern>_ Servicios</pattern>
+        <template>Ofrecemos los siguientes servicios: <br/><br/>
+		-Escuela naval de Guatemala.<br/> 
+		-Servicio militar obligatorio?<br/>
+		Por favor escriba algunos de ellos.
+        </template>
+    </category>
+	
+	<category>
+        <pattern>Servicios *</pattern>
+        <template>Ofrecemos los siguientes servicios: <br/><br/>
+		-Escuela naval de Guatemala.<br/> 
+		-Servicio militar obligatorio?<br/>
+		Por favor escriba algunos de ellos.
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ Servicios *</pattern>
+        <template>Ofrecemos los siguientes servicios: <br/><br/>
+		-Escuela naval de Guatemala.<br/> 
+		-Servicio militar obligatorio?<br/>
+		Por favor escriba algunos de ellos.
+        </template>
+    </category>
+	
+
+    <category>
+        <pattern>escuela naval de Guatemala</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ escuela naval de Guatemala</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>escuela naval de Guatemala *</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ escuela naval de Guatemala *</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>escuela naval de Guatemala</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ escuela naval de Guatemala</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>escuela naval de Guatemala *</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ escuela naval de Guatemala *</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>Escuela naval de Guatemala</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ Escuela naval de Guatemala</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>Escuela naval de Guatemala *</pattern>
+        <template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ Escuela naval de Guatemala *</pattern>
+		<template>Para información de la Escuela Naval: <br/>
+                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>	
+    </category>
+	
+	<category>
+        <pattern>servicio militar</pattern>
+        <template>Para información del servicio militar: <br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ servicio militar</pattern>
+        <template>Para información del servicio militar: <br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>servicio militar *</pattern>
+        <template>Para información del servicio militar: <br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ servicio militar *</pattern>
+        <template>Para información del servicio militar: <br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>mision y vision</pattern>
+        <template>Para más información: <br/>
+                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ mision y vision</pattern>
+        <template>Para más información: <br/>
+                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>mision y vision *</pattern>
+        <template>Para más información: <br/>
+                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ mision y vision *</pattern>
+        <template>Para más información: <br/>
+                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>misión y visión</pattern>
+        <template>Para más información: <br/>
+                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ misión y visión</pattern>
+        <template>Para más información: <br/>
+                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>misión y visión *</pattern>
+        <template>Para más información: <br/>
+                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ misión y visión *</pattern>
+        <template>Para más información: <br/>
+                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>
+        </template>
+    </category>
+    
+	<category>
+        <pattern>cuantas aeronaves posee la fuerza aérea de Guatemala</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ cuantas aeronaves posee la fuerza aérea de Guatemala</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>cuantas aeronaves posee la fuerza aérea de Guatemala *</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ cuantas aeronaves posee la fuerza aérea de Guatemala *</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>Cuantas aeronaves posee la fuerza aérea de Guatemala</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ Cuantas aeronaves posee la fuerza aérea de Guatemala</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>Cuantas aeronaves posee la fuerza aérea de Guatemala *</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ Cuantas aeronaves posee la fuerza aérea de Guatemala *</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>cuantas aeronaves posee la fuerza aerea de Guatemala</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ cuantas aeronaves posee la fuerza aerea de Guatemala</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>cuantas aeronaves posee la fuerza aerea de Guatemala *</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ cuantas aeronaves posee la fuerza aerea de Guatemala *</pattern>
+        <template>60 aeronaves aproximadamente<br/></template>
+    </category>
+	
+	<category>
+        <pattern>Cuantos efectivos tiene la Fuerzas armadas del Guatemala</pattern>
+        <template>40.000 efectivos<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ Cuantos efectivos tiene la Fuerzas armadas del Guatemala</pattern>
+        <template>40.000 efectivos<br/></template>
+    </category>
+	
+	<category>
+        <pattern>Cuantos efectivos tiene la Fuerzas armadas del Guatemala *</pattern>
+        <template>40.000 efectivos<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ Cuantos efectivos tiene la Fuerzas armadas del Guatemala *</pattern>
+        <template>40.000 efectivos<br/></template>
+    </category>
+	
+	<category>
+        <pattern>cuantos efectivos tiene la fuerzas armadas del Guatemala</pattern>
+        <template>40.000 efectivos<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ cuantos efectivos tiene la fuerzas armadas del Guatemala</pattern>
+        <template>40.000 efectivos<br/></template>
+    </category>
+	
+	<category>
+        <pattern>cuantos efectivos tiene la fuerzas armadas del Guatemala *</pattern>
+        <template>40.000 efectivos<br/></template>
+    </category>
+	
+	<category>
+        <pattern>_ cuantos efectivos tiene la fuerzas armadas del Guatemala *</pattern>
+        <template>40.000 efectivos<br/></template>
+    </category>
+	
+	<category>
+        <pattern>Como puedo ingresar a las fuerzas armadas</pattern>
+        <template>Puede ingresar al siguiente link:<br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ Como puedo ingresar a las fuerzas armadas</pattern>
+        <template>Puede ingresar al siguiente link:<br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>Como puedo ingresar a las fuerzas armadas *</pattern>
+        <template>Puede ingresar al siguiente link:<br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ Como puedo ingresar a las fuerzas armadas *</pattern>
+        <template>Puede ingresar al siguiente link:<br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>como puedo ingresar a las fuerzas armadas</pattern>
+        <template>Puede ingresar al siguiente link:<br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ como puedo ingresar a las fuerzas armadas</pattern>
+        <template>Puede ingresar al siguiente link:<br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>como puedo ingresar a las fuerzas armadas *</pattern>
+        <template>Puede ingresar al siguiente link:<br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>
+        </template>
+    </category>
+	
+	<category>
+        <pattern>_ como puedo ingresar a las fuerzas armadas *</pattern>
+        <template>Puede ingresar al siguiente link:<br/>
+                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>
+        </template>
+    </category>
+	
+	
+
+    
+    
+
+
+	
+</aiml>

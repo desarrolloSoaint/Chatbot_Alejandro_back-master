@@ -1,0 +1,41 @@
+0,*,*,*,<random>#Newline        <li>Disculpa pero no comprendo tu pregunta pero Puedo hablarte de los servicios que ofrecemos?. Escriba Servicios Por Favor.</li>#Newline      </random>,default.aiml
+0,COMO TE LLAMAS,*,*,<random>#Newline				<li>me llamo ALEJANDRO</li>#Newline				<li>ALEJANDRO</li>#Newline			</random>,default.aiml
+0,_ COMO TE LLAMAS,*,*,<random>#Newline				<li>me llamo ALEJANDRO</li>#Newline				<li>ALEJANDRO</li>#Newline			</random>,default.aiml
+0,COMO TE LLAMAS *,*,*,<random>#Newline				<li>me llamo ALEJANDRO</li>#Newline				<li>ALEJANDRO</li>#Newline			</random>,default.aiml
+0,_ COMO TE LLAMAS *,*,*,<random>#Newline				<li>me llamo ALEJANDRO</li>#Newline				<li>ALEJANDRO</li>#Newline			</random>,default.aiml
+0,SERVICIOS,*,*,Ofrecemos los siguientes servicios: <br/><br/>#Newline		-Escuela naval de Guatemala.<br/> #Newline		-Servicio militar obligatorio?<br/>#Newline		Por favor escriba algunos de ellos.,default.aiml
+0,_ SERVICIOS,*,*,Ofrecemos los siguientes servicios: <br/><br/>#Newline		-Escuela naval de Guatemala.<br/> #Newline		-Servicio militar obligatorio?<br/>#Newline		Por favor escriba algunos de ellos.,default.aiml
+0,SERVICIOS *,*,*,Ofrecemos los siguientes servicios: <br/><br/>#Newline		-Escuela naval de Guatemala.<br/> #Newline		-Servicio militar obligatorio?<br/>#Newline		Por favor escriba algunos de ellos.,default.aiml
+0,_ SERVICIOS *,*,*,Ofrecemos los siguientes servicios: <br/><br/>#Newline		-Escuela naval de Guatemala.<br/> #Newline		-Servicio militar obligatorio?<br/>#Newline		Por favor escriba algunos de ellos.,default.aiml
+0,ESCUELA NAVAL DE GUATEMALA,*,*,Para información de la Escuela Naval: <br/>#Newline                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,_ ESCUELA NAVAL DE GUATEMALA,*,*,Para información de la Escuela Naval: <br/>#Newline                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,ESCUELA NAVAL DE GUATEMALA *,*,*,Para información de la Escuela Naval: <br/>#Newline                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,_ ESCUELA NAVAL DE GUATEMALA *,*,*,Para información de la Escuela Naval: <br/>#Newline                <a href="https://www.mindef.mil.gt/educacion/eng/eng.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,SERVICIO MILITAR,*,*,Para información del servicio militar: <br/>#Newline                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,_ SERVICIO MILITAR,*,*,Para información del servicio militar: <br/>#Newline                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,SERVICIO MILITAR *,*,*,Para información del servicio militar: <br/>#Newline                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,_ SERVICIO MILITAR *,*,*,Para información del servicio militar: <br/>#Newline                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,MISION Y VISION,*,*,Para más información: <br/>#Newline                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,_ MISION Y VISION,*,*,Para más información: <br/>#Newline                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,MISION Y VISION *,*,*,Para más información: <br/>#Newline                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,_ MISION Y VISION *,*,*,Para más información: <br/>#Newline                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,MISIÓN Y VISIÓN,*,*,Para más información: <br/>#Newline                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,_ MISIÓN Y VISIÓN,*,*,Para más información: <br/>#Newline                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,MISIÓN Y VISIÓN *,*,*,Para más información: <br/>#Newline                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,_ MISIÓN Y VISIÓN *,*,*,Para más información: <br/>#Newline                <a href="https://www.mindef.mil.gt/Organizacion/2estado_mayordef/servicios/1centro_adiestra/1centro_adiestra_vision.html" target="_blank"><font color="white">Ingrese aqui</font></a>,default.aiml
+0,CUANTAS AERONAVES POSEE LA FUERZA AÉREA DE GUATEMALA,*,*,60 aeronaves aproximadamente<br/>,default.aiml
+0,_ CUANTAS AERONAVES POSEE LA FUERZA AÉREA DE GUATEMALA,*,*,60 aeronaves aproximadamente<br/>,default.aiml
+0,CUANTAS AERONAVES POSEE LA FUERZA AÉREA DE GUATEMALA *,*,*,60 aeronaves aproximadamente<br/>,default.aiml
+0,_ CUANTAS AERONAVES POSEE LA FUERZA AÉREA DE GUATEMALA *,*,*,60 aeronaves aproximadamente<br/>,default.aiml
+0,CUANTAS AERONAVES POSEE LA FUERZA AEREA DE GUATEMALA,*,*,60 aeronaves aproximadamente<br/>,default.aiml
+0,_ CUANTAS AERONAVES POSEE LA FUERZA AEREA DE GUATEMALA,*,*,60 aeronaves aproximadamente<br/>,default.aiml
+0,CUANTAS AERONAVES POSEE LA FUERZA AEREA DE GUATEMALA *,*,*,60 aeronaves aproximadamente<br/>,default.aiml
+0,_ CUANTAS AERONAVES POSEE LA FUERZA AEREA DE GUATEMALA *,*,*,60 aeronaves aproximadamente<br/>,default.aiml
+0,CUANTOS EFECTIVOS TIENE LA FUERZAS ARMADAS DEL GUATEMALA,*,*,40.000 efectivos<br/>,default.aiml
+0,_ CUANTOS EFECTIVOS TIENE LA FUERZAS ARMADAS DEL GUATEMALA,*,*,40.000 efectivos<br/>,default.aiml
+0,CUANTOS EFECTIVOS TIENE LA FUERZAS ARMADAS DEL GUATEMALA *,*,*,40.000 efectivos<br/>,default.aiml
+0,_ CUANTOS EFECTIVOS TIENE LA FUERZAS ARMADAS DEL GUATEMALA *,*,*,40.000 efectivos<br/>,default.aiml
+0,COMO PUEDO INGRESAR A LAS FUERZAS ARMADAS,*,*,Puede ingresar al siguiente link:<br/>#Newline                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>,default.aiml
+0,_ COMO PUEDO INGRESAR A LAS FUERZAS ARMADAS,*,*,Puede ingresar al siguiente link:<br/>#Newline                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>,default.aiml
+0,COMO PUEDO INGRESAR A LAS FUERZAS ARMADAS *,*,*,Puede ingresar al siguiente link:<br/>#Newline                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>,default.aiml
+0,_ COMO PUEDO INGRESAR A LAS FUERZAS ARMADAS *,*,*,Puede ingresar al siguiente link:<br/>#Newline                <a href="https://www.mindef.mil.gt/serviciomilitar/serviciomilitar.html" target="_blank"><font color="white">Haga click aqui</font></a>,default.aiml
